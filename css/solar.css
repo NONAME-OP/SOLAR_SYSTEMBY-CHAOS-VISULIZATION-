@@ -168,5 +168,7 @@ a:hover, a:focus {
 .progress.green .tz-bar {
     background-color: #9e81d6;
 }
-
+.op{
+	background-color: #f1f1;
+}
 
